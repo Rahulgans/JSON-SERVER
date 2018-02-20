@@ -1,0 +1,68 @@
+    
+
+{
+    data : [
+        
+        
+    {
+        "keyword":"pharma",
+        "reg_id":"SL000092",
+        "location":["Mumbai",
+          "Pune"],
+        "industry":["Manufacturing",
+          "pharmaceutical"],
+        "listing_id":"SL00012",
+        "asking_price_from":"1 crore",
+        "asking_price_to":"10 crore",
+        "goal":["sell"],
+        "documents":"verified",
+        "gross_profit":"1 Crore",
+        "turnover":"10 Crore",
+        "images":["via.placeholder.com/255x255",
+          "via.placeholder.com/255x1"],
+        "id":"6d287a00-5a34-456c-8dd6-a6d49654addc",
+        "_version_":1592458815444353024
+    },
+
+   {
+        "keyword":"pharma",
+        "reg_id":"SL000092",
+        "location":["Mumbai",
+          "Pune"],
+        "industry":["Manufacturing",
+          "pharmaceutical"],
+        "listing_id":"SL00012",
+        "asking_price_from":"11 crore",
+        "asking_price_to":"20 crore",
+        "goal":["sell"],
+        "documents":"Not-Verified",
+        "gross_profit":"12 Crore",
+        "turnover":"17 Crore",
+        "images":["via.placeholder.com/255x255",
+          "via.placeholder.com/255x1"],
+        "id":"6d287a00-5a34-456c-8dd6-a6d49654addc",
+        "_version_":1592458815444353024
+    },
+    
+    {
+        "keyword":"pharma",
+        "location":["Mumbai"],
+        "industry":["Manufacturing",
+          "pharmaceutical"],
+        "listing_id":"SL00012",
+        "reg_id":"SL000094",
+        "asking_price_from":"15 crore",
+        "asking_price_to":"19 crore",
+        "goal":["sell",
+          "buy"],
+        "documents":"verified",
+        "gross_profit":"1 Crore",
+        "turnover":"100 Crore",
+        "images":["via.placeholder.com/255x255",
+          "via.placeholder.com/255x1"],
+        "id":"f558b166-6df3-4226-8374-821b45c4855e",
+        "_version_":1592458815532433408
+    }   
+   ]
+
+}
